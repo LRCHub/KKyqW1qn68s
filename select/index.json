@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Open Your Eyes",
+  "base_artist": "Guano Apes",
+  "createdAt": "2026-02-19T10:26:12.985377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Open Your Eyes and Look North",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/01_Open_Your_Eyes_and_Look_North_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/02_Open_Your_Eyes_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Julian Lennon",
+      "has_synced": false,
+      "path": "select/03_Open_Your_Eyes_Julian_Lennon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Black Box",
+      "has_synced": true,
+      "path": "select/04_Open_Your_Eyes_Black_Box.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/05_Open_Your_Eyes_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/06_Open_Your_Eyes_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Hot Action Cop",
+      "has_synced": false,
+      "path": "select/07_Open_Your_Eyes_Hot_Action_Cop.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/08_Open_Your_Eyes_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Midnattsol",
+      "has_synced": true,
+      "path": "select/09_Open_Your_Eyes_Midnattsol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Stream of Passion",
+      "has_synced": true,
+      "path": "select/10_Open_Your_Eyes_Stream_of_Passion.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Biohazard",
+      "has_synced": false,
+      "path": "select/11_Open_Your_Eyes_Biohazard.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/12_Open_Your_Eyes_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Stars In Stereo",
+      "has_synced": true,
+      "path": "select/13_Open_Your_Eyes_Stars_In_Stereo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Bonnie McKee",
+      "has_synced": true,
+      "path": "select/14_Open_Your_Eyes_Bonnie_McKee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/15_Open_Your_Eyes_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Guano Apes",
+      "has_synced": true,
+      "path": "select/16_Open_Your_Eyes_Guano_Apes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Open Your Eyes",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/17_Open_Your_Eyes_Snow_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Open Your Eyes (Hooligan remix)",
+      "artist": "Nalin & Kane",
+      "has_synced": false,
+      "path": "select/18_Open_Your_Eyes_(Hooligan_remix)_Nalin_&_Kane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Open Your Eyes",
+      "artist": "Guano Apes",
+      "has_synced": false,
+      "path": "select/pl_01_Open_Your_Eyes_Guano_Apes.txt"
+    }
+  ]
+}
