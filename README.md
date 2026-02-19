@@ -1,0 +1,63 @@
+# Guano Apes – Open Your Eyes
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.97] Hide your face forever
+[00:04.60] Dream and search forever
+[00:16.60] 
+[00:36.35] Have you ever been for sale?
+[00:38.14] When your isms get smart
+[00:40.05] Oh so selfish and mindless
+[00:42.77] With that comment in your eye
+[00:57.27] 
+[00:44.57] Do you think that you are hard?
+[00:47.24] Really harder than the other
+[00:49.07] Man you're acting cold
+[00:50.87] If you are not in charge
+[01:02.87] 
+[00:52.78] Don't split your mentality
+[00:55.43] Without thinking twice
+[00:57.23] Your voice has got no reason
+[00:59.98] Now is the time to face your lies
+[01:16.48] 
+[01:01.76] Open your eyes, open your mind
+[01:06.33] Proud like a god, don't pretend to be blind
+[01:10.87] Trapped in yourself, break out instead
+[01:14.52] Beat the machine that works in your head
+[01:34.52] 
+[01:27.26] Will you offer me some tricks
+[01:29.90] If I ever need them?
+[01:31.77] Would you go into that room
+[01:34.53] If I call 'em
+[01:41.03] 
+[01:36.36] Do you think that you are better
+[01:38.16] Really better than the rest?
+[01:40.81] You realize there's a problem
+[01:42.69] I know that you can give your best
+[01:59.69] 
+[01:44.43] Have you ever had a dream
+[01:47.12] Or is life just a trip?
+[01:49.07] A trip without chances
+[01:50.82] A chance to grow up quick
+[02:03.32] 
+[01:53.53] Open your eyes, open your mind
+[01:58.94] Proud like a god, don't pretend to be blind
+[02:02.53] Trapped in yourself, break out instead
+[02:07.19] Beat the machine that works in your head
+[02:27.19] 
+[02:14.40] Hide your face forever
+[02:15.29] Dream and search forever
+[02:18.96] Night and night you feel nothing
+[02:23.47] There's no way outside of my land
+[02:39.97] 
+[02:27.94] Open your eyes, open your mind
+[02:32.54] Proud like a god, don't pretend to be blind
+[02:37.04] Trapped in yourself, break out instead
+[02:41.52] Beat the machine that works in your head
+[03:01.52] 
+[02:45.27] Open your eyes, open your mind
+[02:49.78] Proud like a god, don't pretend to be blind
+[02:54.20] Trapped in yourself, break out instead
+[02:56.04] Beat the machine that works in your head
+```
